@@ -1,3 +1,4 @@
 # learn---shell
 here we learn shell
-shell 
+
+here we learn about shell 
