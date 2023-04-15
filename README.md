@@ -2,4 +2,4 @@
 here we learn shell
 
 here we learn about shell
-and git repository..
+and git repository...
