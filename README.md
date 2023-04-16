@@ -1,3 +1,3 @@
 # learn---shell
 here we learn shell
-and practiced
+and practiced...
